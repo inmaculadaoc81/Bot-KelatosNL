@@ -1,0 +1,20 @@
+services:
+  app:
+    build: .
+    image: ghcr.io/keysiwin12/bot-wsp-nl:latest
+    container_name: whatsapp-bot-nl
+    restart: unless-stopped
+    ports:
+      - "8003:8000"
+    env_file:
+      - .env
+    volumes:
+      - bot-data-nl:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  bot-data-nl:
