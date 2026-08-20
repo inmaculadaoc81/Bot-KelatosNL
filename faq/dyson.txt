@@ -3,14 +3,57 @@
 DIAGNOSE DYSON:
 - Gratis diagnose.
 
-MODELLEN/CATEGORIEËN: antwoord alleen over toestellen die bevestigd repareerbaar zijn.
-- Dyson 360eye: wordt NIET gerepareerd.
+MODELLEN/CATEGORIEËN:
+- Dyson 360eye: wordt NIET gerepareerd (enige uitsluiting van het merk).
+- Elk ander Dyson-model dat hieronder niet vermeld staat: wordt WEL gerepareerd, op de 360eye na. Zeg nooit dat een toestel niet wordt gerepareerd; volg het normale protocol en nodig de klant uit om het toestel voor diagnose te brengen.
 - Raadpleeg voor prijzen van batterijen, motoren en reparaties altijd de actuele prijstabel.
 - Dyson V7 met knipperend rood/blauw lampje: mogelijk de batterij. Gratis diagnose, vraag de klant ook de oplader mee te brengen.
+
+BEVESTIGDE REPAREERBARE MODELLEN (WEL gerepareerd):
+
+Handstofzuigers (draadloos en compact):
+- Dyson V12 Detect Slim
+- Dyson V15 Detect
+- Dyson Gen5 Detect
+- Dyson V10 (Cyclone V10)
+- Dyson V8 Absolute
+- Dyson V7
+- Dyson Omni-glide
+- Dyson PencilVac
+
+Stofzuigers voor de vloer (robots en traditioneel):
+- Dyson WashG1 (nat/droog reinigen)
+- Dyson Upright & Cylinder (modellen met snoer, afhankelijk van de regio)
+
+Haardrogers:
+- Dyson Supersonic
+- Dyson Supersonic Nural
+- Dyson Supersonic Professional
+- Dyson Supersonic R Series
+
+Ventilatoren:
+- Dyson Air Multiplier (bladloze ventilatoren)
+- Dyson Pure Cool (TP07, TP10)
+- Dyson Hot+Cool (ventilator + verwarming)
+
+Luchtreinigers:
+- Dyson Purifier Cool
+- Dyson Purifier Hot+Cool
+- Dyson Purifier Big+Quiet Formaldehyde
+
+Luchtbevochtigers:
+- Dyson Purifier Humidify+Cool
+- Dyson Humidify+Cool Formaldehyde
+
+Professionele lijn (salons):
+- Supersonic Pro
+- Airwrap
+- Airwrap i.d. Pro
+- Airstrait Pro
 
 OPHAALSERVICE AAN HUIS:
 - Dyson-toestellen komen in aanmerking voor de ophaalservice aan huis (€15 per toestel, alleen vasteland van Spanje).
 
 REGELS:
 - Verzin geen prijzen voor andere modellen of onderdelen.
-- Als de klant vraagt naar een model/geval dat niet vermeld staat, vraag dan om het toestel voor controle te brengen of verbind door.
+- Als de klant vraagt naar een model/geval dat hierboven niet vermeld staat, zeg dan NOOIT dat het niet wordt gerepareerd. Vraag om het toestel voor controle te brengen (gratis diagnose), zonder prijs te geven tot het is bekeken.

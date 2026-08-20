@@ -657,7 +657,12 @@ async def chatwoot_webhook(request: Request):
             return {"status": "ignored"}
 
         # Extract data from Chatwoot payload
-        content = body.get("content", "")
+        # Chatwoot stuurt "content": null (niet afwezig) bij berichten die
+        # alleen een bijlage bevatten (afbeelding/audio/video zonder tekst).
+        # "or" gebruiken i.p.v. .get(..., "") zodat null ook naar een lege
+        # string valt en verderop geen onbeantwoord bericht veroorzaakt bij
+        # de .strip() aanroep.
+        content = body.get("content") or ""
         conversation = body.get("conversation", {})
         conversation_id = conversation.get("id")
         sender = body.get("sender", {})
